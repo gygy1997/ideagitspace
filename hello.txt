@@ -1,4 +1,5 @@
 hello github 
 this is text file.
-hot-fix compled
+hot-fix complet
 master test
+hot-fix test
