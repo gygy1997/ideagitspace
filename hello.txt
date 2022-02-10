@@ -3,3 +3,4 @@ this is text file.
 hot-fix complet
 master test
 hot-fix test
+ssh test
